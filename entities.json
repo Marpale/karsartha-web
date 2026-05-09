@@ -1,0 +1,1003 @@
+[
+  {
+    "ticker": "BBCA",
+    "name": "PT Bank Central Asia Tbk",
+    "sector": "banking",
+    "sectorLabel": "Banking — Corporate (KBMI 4), Hartono/Djarum-controlled",
+    "price": "IDR 6,050",
+    "mcap": "~IDR 745.8T",
+    "verdict": "BUY",
+    "summary": "Gold standard of Indonesian banking. CASA 84.2% moat widening, FCF Bank +Rp46.9T, trading at P/E 12.95x — historically cheap on macro fear.",
+    "metrics": [
+      [
+        "NPL",
+        "1.7% (improving)"
+      ],
+      [
+        "LAR",
+        "4.8% (best KBMI-4)"
+      ],
+      [
+        "CASA",
+        "84.2% (highest in Indonesia)"
+      ],
+      [
+        "LDR",
+        "76.2% (conservative)"
+      ],
+      [
+        "P/E @ 6,050",
+        "12.95x (historically low)"
+      ],
+      [
+        "P/BV @ 6,050",
+        "2.65x (below Gordon 3.0x)"
+      ],
+      [
+        "FCF Bank FY2025",
+        "+IDR 46.9T"
+      ]
+    ],
+    "strengths": [
+      "CASA 84.2% — highest Indonesia, widening 7 years straight — structural cost-of-fund moat.",
+      "FCF Bank +Rp46.9T — cash-compounding franchise; FCF yield on equity 16.7%.",
+      "ROE 20.43% — best KBMI-4; consistent earnings growth across all economic cycles.",
+      "Fee income 31% of net profit — non-interest diversification via 4.97M credit cards."
+    ],
+    "risks": [
+      "Revenue growth +4.34% compressed by weak consumer credit; auto loans -13.3%.",
+      "CKPN provision doubled to Rp4.0T — macro precaution; not yet a credit quality alarm.",
+      "Macro fear (IDR, BBM) may keep price compressed below fair value longer than expected."
+    ],
+    "asOf": "FY 2025 + Q1 2026 forecast",
+    "validatedOn": "2026-04-26"
+  },
+  {
+    "ticker": "BBRI",
+    "name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "sector": "banking",
+    "sectorLabel": "Banking — Micro/Consumer (KBMI 4)",
+    "price": "IDR 3,160",
+    "mcap": "IDR 479T",
+    "verdict": "WAIT",
+    "summary": "Fair price, NPL still rising. Wait for credit cycle to peak before entering.",
+    "metrics": [
+      [
+        "NPL",
+        "3.10%"
+      ],
+      [
+        "CASA",
+        "70.6%"
+      ],
+      [
+        "NIM",
+        "7.80%"
+      ],
+      [
+        "CAR",
+        "21.06%"
+      ],
+      [
+        "P/BV @ 3,160",
+        "1.45x"
+      ],
+      [
+        "ROE",
+        "~17.5%"
+      ],
+      [
+        "FCF yield (5yr norm)",
+        "8.1%"
+      ]
+    ],
+    "strengths": [
+      "Unmatched rural reach — 5,086 BRI Units + mobile/ship terraces, 34.5M ultra-micro borrowers.",
+      "NIM 7.8% structurally highest in KBMI-4; micro segment captive pricing.",
+      "CASA improving 67.3% → 70.6%, structural funding cost advantage."
+    ],
+    "risks": [
+      "NPL 3.10% — joint highest in KBMI-4, peak not yet confirmed.",
+      "FCF Bank crushed in 2025 (IDR 17T vs IDR 57T net income) due to corporate push.",
+      "LDR 94.2% above OJK ideal range, liquidity buffer thin.",
+      "Net income declining 5.8% YoY, CKPN +16.9%."
+    ],
+    "asOf": "FY 2025 + Q1 2026 forecast",
+    "validatedOn": "2026-04-22"
+  },
+  {
+    "ticker": "BMRI",
+    "name": "PT Bank Mandiri (Persero) Tbk",
+    "sector": "banking",
+    "sectorLabel": "Banking — Corp-Comm (KBMI 4)",
+    "price": "mcap basis",
+    "mcap": "~IDR 449T",
+    "verdict": "WAIT",
+    "summary": "Best-in-class asset quality, but CASA decline pressuring NIM. Price debatable.",
+    "metrics": [
+      [
+        "P/BV @ mcap 449T",
+        "~1.4x"
+      ],
+      [
+        "Hist. P/BV range",
+        "1.5–2.5x"
+      ],
+      [
+        "NPL",
+        "1.19%"
+      ],
+      [
+        "CASA",
+        "72.8%"
+      ],
+      [
+        "NIM",
+        "4.89%"
+      ],
+      [
+        "CoF",
+        "2.43%"
+      ],
+      [
+        "CAR",
+        ">19%"
+      ],
+      [
+        "Segment",
+        "Corp-Comm"
+      ]
+    ],
+    "strengths": [
+      "Best NPL in KBMI-4 (1.19%), corp-comm portfolio quality intact.",
+      "CASA still 2nd after BCA; CAR well above regulatory minimum.",
+      "Implicit government liquidity backstop via Danantara."
+    ],
+    "risks": [
+      "CASA fell 77.7% → 72.8%, CoF rising, NIM compressing.",
+      "Deposito growing faster than giro/tabungan — funding mix deteriorating.",
+      "State control = political risk + program-mandate lending exposure."
+    ],
+    "asOf": "Q3 2025 actuals, Jan 2026 webinar",
+    "validatedOn": "2026-04-15"
+  },
+  {
+    "ticker": "BBNI",
+    "name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "sector": "banking",
+    "sectorLabel": "Banking — Corp-Comm SOE (KBMI 4)",
+    "price": "IDR 3,770",
+    "mcap": "~IDR 140.6T",
+    "verdict": "WAIT",
+    "summary": "Lowest NIM among Big-4 (3.8%) due to SOE-corporate tilt. Profit fell 7.2% YoY despite 16% loan growth. Priced at fair value — zero MOS.",
+    "metrics": [
+      [
+        "NPL",
+        "1.9% (improving)"
+      ],
+      [
+        "LAR",
+        "8.5% (down from 10.3%)"
+      ],
+      [
+        "CASA",
+        "69.7% (declining)"
+      ],
+      [
+        "NIM",
+        "3.8% (weakest KBMI-4)"
+      ],
+      [
+        "P/E FY2025",
+        "7.02x"
+      ],
+      [
+        "P/BV @ 3,770",
+        "~0.80x"
+      ],
+      [
+        "P/E fwd (Q1 2026)",
+        "5.86x"
+      ],
+      [
+        "FCF Bank FY2025",
+        "+IDR 2.7T (RWA growth year)"
+      ],
+      [
+        "CAR",
+        "21.8%"
+      ]
+    ],
+    "strengths": [
+      "Credit quality healing: NPL 4.3% (2020) → 1.9% (2025); LAR 28.7% → 8.5%.",
+      "KBMI-4 systemic bank — implicit state backstop, stable franchise.",
+      "CAR 21.8% well-capitalised; fee income +13.4% YoY."
+    ],
+    "risks": [
+      "NIM structural compression: 4.81% (2022) → 3.8% (2025) — SOE corp loans yield only 6.4%.",
+      "Net profit -7.2% YoY despite 15.9% loan growth — volume can no longer offset margin.",
+      "RPT deposits 27.9% of total — concentrated state-entity funding, rotation risk.",
+      "MOS essentially zero at IDR 3,770; fair value IDR 3,200–3,400 range."
+    ],
+    "asOf": "FY 2025 + Q1 2026 forecast",
+    "validatedOn": "2026-04-15"
+  },
+  {
+    "ticker": "NISP",
+    "name": "PT Bank OCBC NISP Tbk",
+    "sector": "banking",
+    "sectorLabel": "Banking — Corp-Comm (KBMI 3)",
+    "price": "IDR 1,235–1,340",
+    "mcap": "~IDR 31T",
+    "verdict": "BUY",
+    "summary": "Marginal buy / watch. Clean book, structural CASA improvement, P/E 6.6x cheap.",
+    "metrics": [
+      [
+        "NPL",
+        "2.0%"
+      ],
+      [
+        "CASA",
+        "56.6%"
+      ],
+      [
+        "NIM",
+        "4.3%"
+      ],
+      [
+        "P/E (fwd) @ 1,340",
+        "6.6–6.7x"
+      ],
+      [
+        "P/BV @ 1,340",
+        "~0.84x"
+      ],
+      [
+        "CASA trend (5yr)",
+        "40% → 56.6%"
+      ],
+      [
+        "Segment",
+        "Corp-Comm"
+      ]
+    ],
+    "strengths": [
+      "NPL 2nd best in peer set (only MEGA lower); corp-comm discipline.",
+      "CASA 40% → 56.6% over 5yr — depositor trust compounding.",
+      "Earnings convert cleanly to owner cash; no manipulation signal."
+    ],
+    "risks": [
+      "NIM mid-pack (4.3%) — structurally lower than retail-focused peers.",
+      "NPL ticked up 1.8% → 2.0% QoQ, watch for further deterioration.",
+      "Smaller scale (KBMI 3) = less moat than BCA/BMRI/BBRI."
+    ],
+    "asOf": "Q1–Q2 2024",
+    "validatedOn": "2026-04-15"
+  },
+  {
+    "ticker": "CMRY",
+    "name": "PT Cisarua Mountain Dairy Tbk",
+    "sector": "consumer",
+    "sectorLabel": "Consumer / FMCG — Dairy + Processed",
+    "price": "mcap basis",
+    "mcap": "~IDR 44T",
+    "verdict": "WAIT",
+    "summary": "Good business at wrong price. Market paying ~374% premium to conservative fair value.",
+    "metrics": [
+      [
+        "Fair value est.",
+        "~IDR 9T"
+      ],
+      [
+        "Premium to FV",
+        "~374%"
+      ],
+      [
+        "Gross margin",
+        "~45%"
+      ],
+      [
+        "Net margin",
+        "~16%"
+      ],
+      [
+        "Trend",
+        "stable / expanding"
+      ],
+      [
+        "Yogurt position",
+        "Niche leader"
+      ],
+      [
+        "Buy zone (target)",
+        "MCap ~IDR 5–6T"
+      ],
+      [
+        "MOS now",
+        "Negative"
+      ]
+    ],
+    "strengths": [
+      "Niche yogurt leadership (Cimory); expanding gross margins.",
+      "Founder-led (Sutantio family ~75%) + General Atlantic ~5.6% as institutional anchor.",
+      "Cash conversion clean; income/cashflow internally consistent."
+    ],
+    "risks": [
+      "USD/IDR exposure on imported milk powder & beef — gross margin sensitive.",
+      "ICBP-scale entrant could disrupt yogurt moat.",
+      "Dairy demand has structural ceiling (Kanzler segment more positive).",
+      "Price extreme — 374% premium to fair value."
+    ],
+    "asOf": "At source recording",
+    "validatedOn": "2026-04-15"
+  },
+  {
+    "ticker": "HRTA",
+    "name": "PT Hartadinata Abadi Tbk",
+    "sector": "commodity",
+    "sectorLabel": "Commodity — Gold (refining/jewelry)",
+    "price": "IDR 2,780",
+    "mcap": "IDR 12.8T",
+    "verdict": "AVOID",
+    "summary": "Watch list — not buy. Gross margin collapse + heavy debt-funded inventory.",
+    "metrics": [
+      [
+        "P/E (FY2025) @ 2,780",
+        "13.08x"
+      ],
+      [
+        "Gross margin",
+        "4.3% (was 9.4%)"
+      ],
+      [
+        "Debt-to-Asset",
+        "74.4% (was 28.9%)"
+      ],
+      [
+        "Inventory / Assets",
+        "65.6%"
+      ],
+      [
+        "OCF history",
+        "Neg 6 of 7 yrs (turnaround 2025)"
+      ],
+      [
+        "Funding",
+        "Debt-funded growth"
+      ]
+    ],
+    "strengths": [
+      "LBMA certification potential as catalyst.",
+      "2025 OCF turnaround after 6 negative years.",
+      "Gold inventory build benefits from gold rally tailwind."
+    ],
+    "risks": [
+      "Gross margin collapse 9.4% → 4.3% with no floor.",
+      "D/A balloon 28.9% → 74.4% — leverage on a declining-margin business.",
+      "Inventory = 65.6% of total assets, mostly debt-funded.",
+      "Cash-buy-slow-sell quirk amplifies WC drag in gold rallies."
+    ],
+    "asOf": "FY 2025",
+    "validatedOn": "2026-04-15"
+  },
+  {
+    "ticker": "BDMN",
+    "name": "PT Bank Danamon Indonesia Tbk",
+    "sector": "banking",
+    "sectorLabel": "Banking — Consumer (KBMI 3), MUFG-controlled",
+    "price": "IDR 4,030",
+    "mcap": "~IDR 39.4T",
+    "verdict": "WAIT",
+    "summary": "Fair price, FCF Bank negative. ADMF moat intact but CASA declining. Wait for cheaper entry.",
+    "metrics": [
+      [
+        "NPL",
+        "1.7% (best KBMI-3)"
+      ],
+      [
+        "CASA",
+        "42.3% (↓ from 63.4% peak)"
+      ],
+      [
+        "LDR",
+        "95.5% (above OJK ideal)"
+      ],
+      [
+        "P/E @ 4,030",
+        "~9.9x"
+      ],
+      [
+        "P/BV @ 4,030",
+        "0.68x"
+      ],
+      [
+        "FCF Bank FY2025",
+        "-IDR 669B"
+      ],
+      [
+        "Net income YoY",
+        "+13.5% (restated)"
+      ]
+    ],
+    "strengths": [
+      "MUFG 92.5% ownership — stable foreign parent, no promoter/governance risk.",
+      "ADMF consumer financing moat: ~39% of interest income from only 12% of assets.",
+      "NPL 1.7% — best in KBMI-3 class, improving from 1.9% in 2024."
+    ],
+    "risks": [
+      "CASA falling structurally (42.3% vs 63.4% peak 2022) → cost of funds rising.",
+      "FCF Bank negative 2 years running — all profit absorbed by RWA growth.",
+      "LDR 95.5%, above OJK ideal (78–92%) — limited lending room.",
+      "ADMF dependency: 32% of loan book, any ADMF deterioration = BDMN deterioration."
+    ],
+    "asOf": "FY 2025 + Q1 2026 forecast",
+    "validatedOn": "2026-04-25"
+  },
+  {
+    "ticker": "BRIS",
+    "name": "PT Bank Syariah Indonesia Tbk",
+    "sector": "banking",
+    "sectorLabel": "Banking — Syariah (BUS BUKU IV), Danantara/Gov't-controlled",
+    "price": "IDR 1,880",
+    "mcap": "~IDR 86.7T",
+    "verdict": "WAIT",
+    "summary": "Dominant syariah bank (46% market share), FCF Bank positive. Premium valuation at P/BV 1.67x — let it come to you.",
+    "metrics": [
+      [
+        "NPF",
+        "1.81% (improving trend)"
+      ],
+      [
+        "FaR",
+        "9.2% (↑ Sumatra exposure — watch)"
+      ],
+      [
+        "FDR",
+        "83.74% (within OJK ideal)"
+      ],
+      [
+        "P/E @ 1,880",
+        "11.46x"
+      ],
+      [
+        "P/BV @ 1,880",
+        "1.67x"
+      ],
+      [
+        "FCF Bank FY2025",
+        "+IDR 2,654B (positive)"
+      ],
+      [
+        "Net income YoY",
+        "+8.0% (FY2025)"
+      ]
+    ],
+    "strengths": [
+      "46.1% Islamic banking market share in financing — structural monopoly position.",
+      "FCF Bank positive (+Rp2.65T) — generates real free cash unlike BDMN.",
+      "NPF 1.81% improving since 2021 post-merger peak (2.93%).",
+      "Gold financing +78% YoY — unique product with Rahn collateral moat."
+    ],
+    "risks": [
+      "FaR 9.2% elevated — Rp40.2T Sumatra disaster exposure; watch Q2 2026 data.",
+      "Danantara governance: BMRI stake transferred Jan 2026; strategic direction uncertain.",
+      "P/BV 1.67x — market already pricing growth; no margin of safety at current price.",
+      "G&A high (28.7% of gross revenue) — depreciation from expansion; normalization needed."
+    ],
+    "asOf": "FY 2025 + Q1 2026 forecast",
+    "validatedOn": "2026-04-26"
+  },
+  {
+    "ticker": "LSIP",
+    "name": "PP London Sumatera Indonesia Tbk",
+    "sector": "commodity",
+    "sectorLabel": "Commodity — Plantation (CPO)",
+    "price": "IDR 825",
+    "mcap": "~IDR 5.63T",
+    "verdict": "BUY",
+    "summary": "Qualified buy. Debt-free, healthy tree age, deep discount, P/E ~5x annualised.",
+    "metrics": [
+      [
+        "FFB OER",
+        "~26% (target 22–25%)"
+      ],
+      [
+        "Tree age 7–20yr",
+        "49% (healthy)"
+      ],
+      [
+        "Gross margin (FY23)",
+        "27.5%"
+      ],
+      [
+        "Debt",
+        "Effectively zero"
+      ],
+      [
+        "P/E (Q1 2024 ann.) @ 825",
+        "~5.3x"
+      ],
+      [
+        "RPT sales (to SIMP)",
+        "~80% (Salim group)"
+      ]
+    ],
+    "strengths": [
+      "Debt-free balance sheet — survives down-cycles intact.",
+      "Tree age 49% in productive 7–20yr band — no replant capex wave imminent.",
+      "OER ~26% above sector target band (22–25%).",
+      "H1 2024 improving from El Niño 2023 drag; ASP holding."
+    ],
+    "risks": [
+      "RPT 80% sales to SIMP — fairness must be checked vs regional reference price.",
+      "Cyclical ASP exposure; 2020–2022 peak gross margin 32–33% may not return.",
+      "Salim group concentration risk."
+    ],
+    "asOf": "Q1 2024 actuals + Q2 2024 forecast",
+    "validatedOn": "2026-04-15"
+  },
+  {
+    "ticker": "ADMF",
+    "name": "PT Adira Dinamika Multi Finance Tbk",
+    "sector": "banking",
+    "sectorLabel": "Finance — Multifinance (Auto/Motorcycle/MPL), BDMN/MUFG-controlled",
+    "price": "IDR 8,275",
+    "mcap": "~IDR 8.275T",
+    "verdict": "WAIT",
+    "summary": "Largest multifinance by new bookings (IDR 43.2T), backed by MUFG via BDMN. Profitable but NI declining -26.7% CAGR over 7 years. Market cap above fair value — wait for cheaper entry.",
+    "metrics": [
+      [
+        "NPF FY2025",
+        "2.0% (improving)"
+      ],
+      [
+        "NIM FY2025",
+        "17.3%"
+      ],
+      [
+        "Net income YoY",
+        "+9.8% (post-MFIN merger)"
+      ],
+      [
+        "P/E @ 8,275",
+        "~6.6x"
+      ],
+      [
+        "P/BV @ 8,275",
+        "~0.55x"
+      ],
+      [
+        "NI CAGR 2019–2025",
+        "-26.7%"
+      ],
+      [
+        "Managed receivables",
+        "IDR 63.4T"
+      ]
+    ],
+    "strengths": [
+      "Largest multifinance by new financing (IDR 43.2T FY2025); 877-office network, 66% outside Java.",
+      "BDMN/MUFG parent: unlimited joint financing facility + USD 100M MUFG term loan (Nov 2025).",
+      "NPF 2.0% improving; NIM 17.3% typical high-margin for consumer finance.",
+      "MFIN merger adds scale without integration friction (affiliated absorb)."
+    ],
+    "risks": [
+      "Net income CAGR -26.7% (2019–2025) — structural earnings compression over 6 years.",
+      "Market share declining: motorcycle 11.8%→8.5%, car 4.8%→4.0%.",
+      "Automotive market weak: motorcycle +1% YoY, car sales subdued.",
+      "MPL mix shift (IDR 13.3T) — highest-yield but highest-risk; NPF risk rising."
+    ],
+    "asOf": "FY 2025 + Q1 2026 forecast",
+    "validatedOn": "2026-05-01"
+  },
+  {
+    "ticker": "AGRO",
+    "name": "PT Bank Raya Indonesia Tbk",
+    "sector": "banking",
+    "sectorLabel": "Finance & Banks — Digital Bank (KBMI 2), BRI-controlled",
+    "price": "IDR 181",
+    "mcap": "~IDR 4.5T",
+    "verdict": "AVOID",
+    "summary": "Digital transformation failed on credit quality. NPL 14.02% (worst among all IDX banking peers), net loss FY2025, negative retained earnings -IDR 3.2T. Revenue -56.6% CAGR over 7 years. Business gate FAIL.",
+    "metrics": [
+      [
+        "NPL FY2025",
+        "14.02% (WORST — all IDX bank peers)"
+      ],
+      [
+        "LAR (9M 2025)",
+        "26.3%"
+      ],
+      [
+        "CKPN/Loan FY2025",
+        "23%"
+      ],
+      [
+        "P/BV @ 181",
+        "1.49x (premium on destroyed fundamentals)"
+      ],
+      [
+        "Net income FY2025",
+        "-IDR 498B (NET LOSS)"
+      ],
+      [
+        "Retained earnings",
+        "-IDR 3,223B (negative)"
+      ],
+      [
+        "Revenue CAGR '19–'25",
+        "-56.6%"
+      ],
+      [
+        "CAR FY2025",
+        "40.25% (idle capital, BRI-injected)"
+      ]
+    ],
+    "strengths": [
+      "BRI parent backing (86.85%) — solvency not at risk, CAR 40.25%.",
+      "Raya App 977K users — digital acquisition infrastructure exists.",
+      "NIM ~10.1% — digital lending spread high (if credit quality were clean)."
+    ],
+    "risks": [
+      "NPL 14.02% — worst among all 20 IDX banking peers; digital loan credit quality collapsed.",
+      "Net loss FY2025 -IDR 498B; FCF Bank negative; two loss years out of 7.",
+      "Retained earnings -IDR 3,223B — all equity from BRI capital injections, not earnings.",
+      "Revenue -56.6% CAGR 2019–2025 — structural decline, not cyclical.",
+      "Value trap: P/BV 1.49x premium on a bank with destroyed fundamentals (BRI rescue narrative priced in)."
+    ],
+    "asOf": "FY 2025 + Q1 2026 forecast",
+    "validatedOn": "2026-05-01"
+  },
+  {
+    "ticker": "TOWR",
+    "name": "PT Sarana Menara Nusantara Tbk",
+    "sector": "infrastructure-and-property",
+    "sectorLabel": "Infrastructure — Tower / Telco infra, Jarum Group-controlled",
+    "price": "IDR 476",
+    "mcap": "~IDR 24.3T",
+    "verdict": "WAIT",
+    "summary": "Slow growing but durable archetype. Largest private tower co + biggest fiber footprint, contract-locked recurring revenue. Sitting at upper edge of fair value (~15% overvalued). Wait for IDR ~380 entry.",
+    "metrics": [
+      [
+        "P/E (FY2024) @ 476",
+        "~7.1x"
+      ],
+      [
+        "Tenancy Ratio (Q3 2025)",
+        "1.61× (↓ from 1.88× peak 2021)"
+      ],
+      [
+        "ASP/tower (FY2024)",
+        "IDR 322M/yr (highest in sector)"
+      ],
+      [
+        "Tower count",
+        "36,049 (Q3 2025)"
+      ],
+      [
+        "Fiber network",
+        "258,135 km (largest in Indonesia)"
+      ],
+      [
+        "FCF FY2024",
+        "+IDR 4.82T (37.8% of revenue)"
+      ],
+      [
+        "D/E (Q3 2025)",
+        "~2.0× (normal for tower co)"
+      ],
+      [
+        "Goodwill",
+        "IDR 15.8T (mostly SUPR 2021)"
+      ]
+    ],
+    "strengths": [
+      "Independent ownership (Jarum Group, not telco-affiliated) — best-in-class pricing power; ASP/tower 50% above MTEL.",
+      "Largest fiber footprint in Indonesia (258K km vs MTEL 40K) — supports services diversification + contract-bundling moat.",
+      "Long-term operator contracts (10+ years) — locked recurring revenue; counterparty default risk low.",
+      "FCF strong + growing every year since 2020 — durability proof for the archetype.",
+      "Capex declining trajectory — mature-phase optimization signal; less reinvestment burden ahead.",
+      "Right-issue 2025 was purposeful (deleveraging) — not chronic dilution."
+    ],
+    "risks": [
+      "Tenancy Ratio declining since 2021 peak — tower additions outpacing tenant additions; margin compression structural.",
+      "Net margin 39.9% (2021) → 26.4% (FY2024) — D&A + finance cost growing faster than revenue.",
+      "Operator merger contract-roll risk: XLSmart (XL+Smartfren) consolidation will compress TR 2027-2030 as contracts roll.",
+      "Substitute threat (Starlink + KAI rail-fiber) reduces tower demand at the margin in Java; outer islands insulated.",
+      "Hartono allegation (Nov 2025) — open reputation issue; monitor resolution.",
+      "High leverage IDR 44.5T interest-bearing debt — tolerable but tight macro (rate hike) would compress further."
+    ],
+    "asOf": "FY 2024 actuals + 9M 2025 + Mar 2026 webinar",
+    "validatedOn": "2026-05-01"
+  },
+  {
+    "ticker": "AUTO",
+    "name": "PT Astra Otoparts Tbk",
+    "sector": "logistic-and-transportation",
+    "sectorLabel": "Logistic & Transportation — Auto-component (manufacturing + trading), Astra/Jardine-controlled",
+    "price": "IDR 2,500",
+    "mcap": "~IDR 12.0T",
+    "verdict": "WAIT",
+    "summary": "Component Supplier with JV Cash Engine archetype. Pricing power confirmed (GP 12% → 16% across cycle), flywheel intact, IDR 725B/yr JV dividend stream. Priced near fair value in front of Mar-2026 BYD/Vinfast pabrik shock. Buy trigger ~IDR 2,000 or catalyst clarity.",
+    "metrics": [
+      [
+        "P/E (FY2024) @ 2,500",
+        "~5.9x"
+      ],
+      [
+        "P/E (Q3 2025 fcst, mod)",
+        "~6.4x"
+      ],
+      [
+        "GP Margin (FY2024)",
+        "16.07% (held 12→16% across commodity cycle)"
+      ],
+      [
+        "Net Margin (FY2024)",
+        "11.4%"
+      ],
+      [
+        "JV dividend received (FY2024)",
+        "IDR 725B (~33% of net income)"
+      ],
+      [
+        "JV-adjusted FCF (FY2024)",
+        "+IDR 1.71T"
+      ],
+      [
+        "Investment in associates/JV",
+        "IDR 7.17T (2.1× Fixed Asset)"
+      ],
+      [
+        "Cash on BS (Q2 2025)",
+        "IDR 3.84T (hoard mode)"
+      ],
+      [
+        "Bank loan / Equity",
+        "3.8% (minimal)"
+      ],
+      [
+        "CCC (Q2 2025)",
+        "50 days (best in peer set)"
+      ],
+      [
+        "Modern outlets",
+        "633 (Shop & Drive, Otoquick, Shop & Bike)"
+      ],
+      [
+        "Pabrik",
+        "55 across Indonesia"
+      ]
+    ],
+    "strengths": [
+      "Pricing power confirmed — GP margin held/expanded across commodity-cost cycle (Buffett #1 criterion).",
+      "JV cash engine — IDR 725B FY2024 dividend received from Denso/GS Battery/Kayaba; ~108% payout per associate footnote sample.",
+      "Flywheel intact — brand → 633 outlets distribution → volume → cost-per-unit ↓ → competitive price → market share → brand reinforced.",
+      "Astra Group 80% / Jardine ultimate — multi-decade governance continuity; clear chain of control.",
+      "OCF positive every year including Covid 2020 (when income was negative) — durability evidence.",
+      "Production no.1 in IDX auto-component peer set; deepest brand portfolio (GS Astra, Aspira, Federal, Denso, Kayaba).",
+      "Sticky OEM contracts — Astra Honda Motor 22% revenue, Daihatsu 7%; component compatibility = switching cost.",
+      "IDR 4.4T cash hoard — defensive war-chest in front of Mar-2026 disruption catalyst."
+    ],
+    "risks": [
+      "Vertical-supply-chain disruption — BYD + Vinfast pabrik commissioning Mar-2026 removes AUTO from those volumes; partnership status currently none.",
+      "CBU-import trend rising — 70K (pre-Covid) → 135K units/yr (2025); imported volume bypasses local component sourcing.",
+      "Manufacturing-segment margin tipis (~5–6%) — low margin of error if production volume drops materially.",
+      "Counterfeit (kawai) goods — sustained tempo-headwind on aftermarket revenue growth via tokopedia/shopee channels.",
+      "Customer concentration in Astra Group (RPT 34% revenue) — not extractive but exposes to Astra capital allocation decisions.",
+      "Cash hoard ambiguity — IDR 4.4T idle could be value-creating war chest OR opportunity-cost drag if deployed poorly.",
+      "MOS thin — Kemas's webinar NAV says ~28% undervalue; framework conservative says at fair value. Reconciled ~10–25% MOS not enough to absorb BYD/Vinfast hit."
+    ],
+    "asOf": "Q2 2025 actuals + Q3 2025 forecast + Nov 2025 webinar",
+    "validatedOn": "2026-05-02"
+  },
+  {
+    "ticker": "INDF",
+    "name": "PT Indofood Sukses Makmur Tbk",
+    "sector": "consumer",
+    "sectorLabel": "Consumer / FMCG — Conglomerate (Salim)",
+    "price": "pending xlsx",
+    "mcap": "pending xlsx",
+    "verdict": "WAIT",
+    "summary": "Salim conglomerate. Bogasari + ICBP + Pinehill = 30-yr compounded moat. Crisis-proven controller (1997/98 BBCA-vs-INDF triage). ROE 13–15% consistent. Successor untested.",
+    "metrics": [
+      [
+        "ROE band",
+        "13–15% consistent (8 yr)"
+      ],
+      [
+        "Indonesia mie instan share",
+        "~11.6% (#2 globally)"
+      ],
+      [
+        "USD bond maturities",
+        "2031 / 2032 / 2051 / 2052 (no near-term wall)"
+      ],
+      [
+        "Crisis triage 1997/98",
+        "Sold BBCA, kept INDF — correct 30 yr later"
+      ],
+      [
+        "Successor crisis-handling",
+        "Untested (post-Anthoni gen)"
+      ],
+      [
+        "Source",
+        "Letter #014, 3 May 2026"
+      ]
+    ],
+    "strengths": [
+      "Multi-decade Salim Group governance; proven 1997/98 crisis triage (kept INDF, sold BBCA — correct call).",
+      "Bogasari + Bulog terigu partnership = the cash engine; ICBP + Pinehill global mie instan reach.",
+      "Conglomerate naturally hedged across commodity cycle (IndoAgri offsets ICBP input-cost spikes).",
+      "ROE 13–15% consistent across 8 years — compounder durability."
+    ],
+    "risks": [
+      "Successor (post-Anthoni Salim) crisis-handling untested; first major macro shock under new gen is the open watch-item.",
+      "Pinehill execution risk — global MENA/Africa expansion is the largest open operational variable.",
+      "Consumer valuation rule: cheap entry rare — wait for crisis dislocation.",
+      "FX hedging program disclosure required at next ingest (USD bonds + imported wheat exposure)."
+    ],
+    "asOf": "Letter #014, 3 May 2026",
+    "validatedOn": "2026-05-06"
+  },
+  {
+    "ticker": "ICBP",
+    "name": "PT Indofood CBP Sukses Makmur Tbk",
+    "sector": "consumer",
+    "sectorLabel": "Consumer / FMCG — Branded Foods (Salim)",
+    "price": "pending xlsx",
+    "mcap": "pending xlsx",
+    "verdict": "WAIT",
+    "summary": "Pure-branded consumer layer of Salim's food empire. Indomie #2 globally (Indonesia ~11.6% share). ROE peaked ~20% pre-2022, ~15% currently; commodity-cycle sensitive.",
+    "metrics": [
+      [
+        "ROE peak",
+        "~20% (pre-2022)"
+      ],
+      [
+        "ROE current",
+        "~15% (post commodity-cost compression)"
+      ],
+      [
+        "Indonesia mie instan share",
+        "~11.6% (#2 globally; China #1 ~36%)"
+      ],
+      [
+        "Normal P/BV envelope",
+        "Up to 2x BV (Letter #014 cited)"
+      ],
+      [
+        "FX exposure",
+        "Input side (wheat); USD bonds at INDF parent level"
+      ],
+      [
+        "Source",
+        "Letter #014, 3 May 2026"
+      ]
+    ],
+    "strengths": [
+      "Branded consumer dominance in mie instan; #2 global market position.",
+      "Down-trading defensive — mie instan is the destination of crisis consumption reallocation, not casualty.",
+      "Salim Group governance proven through 1997/98 crisis (parent-level read).",
+      "ROE 15–20% high-quality consumer band."
+    ],
+    "risks": [
+      "Margin compresses on commodity input cost spikes (wheat, CPO); 2022 cited as proof event.",
+      "Consumer valuation premium: cheap entry rare; up to 2x BV normal-condition.",
+      "Wings / Mie Sedaap competitive intensity in domestic share defence.",
+      "Successor crisis-handling untested (carries through from INDF parent)."
+    ],
+    "asOf": "Letter #014, 3 May 2026",
+    "validatedOn": "2026-05-06"
+  },
+  {
+    "ticker": "ULTJ",
+    "name": "PT Ultrajaya Milk Industry & Trading Company Tbk",
+    "sector": "consumer",
+    "sectorLabel": "Consumer / FMCG — UHT Dairy",
+    "price": "pending xlsx",
+    "mcap": "pending xlsx",
+    "verdict": "WAIT",
+    "summary": "UHT dairy market leader. Q1 2026 revenue +20% / net profit +35%. Net-cash (cash Rp 3.7T, debt < Rp 2B). 100% payout legitimate per Andhika doctrine.",
+    "metrics": [
+      [
+        "Q1 2026 revenue growth",
+        "+20% YoY"
+      ],
+      [
+        "Q1 2026 net profit growth",
+        "+35% YoY"
+      ],
+      [
+        "Cash on BS",
+        "Rp 3.7 Trillion"
+      ],
+      [
+        "Interest-bearing debt",
+        "< Rp 2 Billion (effectively net-cash)"
+      ],
+      [
+        "Indonesia per-capita dairy",
+        "16–17 kg/yr vs Malaysia/India >50 kg/yr"
+      ],
+      [
+        "Normal P/BV envelope",
+        "Up to 2x BV (Letter #014 cited)"
+      ],
+      [
+        "Source",
+        "Letter #014, 3 May 2026"
+      ]
+    ],
+    "strengths": [
+      "UHT category leader; net-cash balance sheet; operating leverage active (NP growing ahead of revenue).",
+      "Per-capita dairy consumption upside structural (3x vs Malaysia / India peers) — economic, not biological constraint.",
+      "100% dividend payout legitimate per Andhika's innovation-runway test (mos_philosophy.md §8.5).",
+      "Buffett-aligned business profile: low R&D burden, stable consumer product."
+    ],
+    "risks": [
+      "Imported milk powder → USD/IDR input exposure; hedging disclosure required at xlsx.",
+      "CMRY competitive position in adjacent dairy categories (yogurt + processed).",
+      "Consumer valuation premium: 2x BV normal-condition; cheap entry only at crisis.",
+      "Dividend continuity — deviation from 100% payout without articulated runway = flag."
+    ],
+    "asOf": "Letter #014 (Q1 2026 financials), 3 May 2026",
+    "validatedOn": "2026-05-06"
+  },
+  {
+    "ticker": "GGRM",
+    "name": "PT Gudang Garam Tbk",
+    "sector": "consumer",
+    "sectorLabel": "Consumer — Tobacco",
+    "price": "~IDR 8,500",
+    "mcap": "pending xlsx",
+    "verdict": "WAIT",
+    "summary": "Tobacco. Andhika acknowledges 3-yr-prior thesis was wrong. Cukai treadmill + illegal-cigarette down trading + Non-Core Capital Trap (bandara/tol). Price Rp 90,000 peak → Rp 8,500 (~91% drawdown).",
+    "metrics": [
+      [
+        "Cited price",
+        "~IDR 8,500/share"
+      ],
+      [
+        "Peak referenced",
+        "~IDR 90,000/share"
+      ],
+      [
+        "Drawdown",
+        "~91% from peak"
+      ],
+      [
+        "Cash-management archetype",
+        "Bad — Non-Core Capital Trap"
+      ],
+      [
+        "FX exposure",
+        "None (raw materials domestic)"
+      ],
+      [
+        "CEO duty test",
+        "FAILED — capital deployed bandara + jalan tol non-core"
+      ],
+      [
+        "Source",
+        "Letter #014, 3 May 2026"
+      ]
+    ],
+    "strengths": [
+      "FX-insulated — raw materials (tembakau, cengkeh) domestic; no IDR-collapse exposure.",
+      "Demand floor structural — addictive product, persistent consumption pattern.",
+      "Potential catalyst: Menkeu Purbaya pledged enforcement against illegal cigarettes (force into legal taxable base).",
+      "Brand premium retains price-insensitive customer base; survives within retained loyalist segment."
+    ],
+    "risks": [
+      "Cukai treadmill (Sri Mulyani era) compressed margin; volume migrated to illegal cigarettes (down trading inside tobacco).",
+      "Non-Core Capital Trap: management deploys cash into bandara + jalan tol — fails CEO duty test (Letter #014 verbatim).",
+      "Recovery from illegal-cig enforcement is asymmetric — down-traded customers may not return at parity.",
+      "New cheap legal substitute (sub-cukai-tier entry) reproduces the illegal-substitute drain through legal channels.",
+      "Value-trap risk: cheap multiple does not auto-equal opportunity (Letter #013 rule)."
+    ],
+    "asOf": "Letter #014, 3 May 2026",
+    "validatedOn": "2026-05-06"
+  }
+]

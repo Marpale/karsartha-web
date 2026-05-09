@@ -1,0 +1,55 @@
+[
+  {
+    "number": "014",
+    "title": "Crisis & Consumption",
+    "date": "2026-05-03",
+    "dateLabel": "3 May 2026",
+    "author": "Andhika Diskartes",
+    "summary": "Indonesian consumption is 53% of GDP but middle-class spending power is compressing as manufacturing share of GDP shrinks. Basic human needs persist across centuries; specific companies do not. Down trading reshuffles consumer winners every crisis.",
+    "tags": ["consumer", "macro", "down-trading"],
+    "macro": [
+      "Indonesia population ~270M; consumption = 53% of GDP",
+      "Manufacturing share of GDP: 20.5% (2016) → 19% (2025)",
+      "Middle class is the squeeze point — bansos / MBG do not reach them"
+    ],
+    "learnings": [
+      "Consumer needs ≠ company permanence. Categories survive (food, drink, addictives); companies fail (Nyonya Meneer, Sariwangi pailit despite category permanence).",
+      "Down trading is structural in every crisis: premium discretionary collapses (mobil baru 387k → 58k 1997/98, full recovery 2024 — 27 years), staples + illegal/cheaper substitutes win.",
+      "INDF/ICBP — Salim 1997/98 triage was correct: kept INDF (profit engine), let go BBCA. INDF ROE 13–15% steady, ICBP ROE ~15% (was 20% pre-cost-spike). Successor generation untested.",
+      "ULTJ — \"Indonesians are lactose intolerant\" hypothesis is wrong; constraint is economic. Q1 2026 revenue +20%, NP +35%; net-cash BS (Rp 3.7T cash / <Rp 2B debt). 100% payout is bijak when product still relevant + cash abundant + no proven innovation runway.",
+      "GGRM — Andhika acknowledges thesis 3 years ago was wrong. Cukai treadmill + illegal-cig down trading drained legal volume; price 90,000 → 8,500 (~91% drawdown). Capital trapped in bandara/tol — fails the CEO capital-allocation duty test.",
+      "Indonesian consumer emiten normally expensive (P/E ~10x, P/BV >1.5x). Cheap entry only at crisis. Imported-input companies must hedge FX or risk kolaps karena hantaman kurs."
+    ],
+    "openQuestions": [
+      "If MBG program is halted, second-order effect on domestic consumption?",
+      "If illegal cigarettes are forced into legal taxation, does GGRM rebound — and how much lost share returns?",
+      "If manufacturing revival + illegal-cig enforcement + MBG all fail, is consumer sector still a 10–20yr hold?"
+    ],
+    "sourceFile": "https://github.com/Marpale/Karsartha/blob/master/kakanda_framework/reference/value_letter.md#value-letter-014",
+    "ingestedOn": "2026-05-06"
+  },
+  {
+    "number": "013",
+    "title": "Rupiah Merosot, BBM Menjulang, Bagaimana dengan Saham?",
+    "date": "2026-04-24",
+    "dateLabel": "24 April 2026",
+    "author": "Andhika Diskartes",
+    "summary": "IDR at Rp17,200/USD — worst depreciation in Indonesian history. BBM non-subsidi up 20–66%. Mr Market is fearful: pricing in -50% discounts vs the usual -30%. Separate market perception from company performance.",
+    "tags": ["macro", "FX", "BBM"],
+    "macro": [
+      "IDR Rp17,200/USD, -3.6% YTD (worst in history)",
+      "IHSG -3% on the day of writing",
+      "Forex reserves <USD 150B; BI intervening but results not visible"
+    ],
+    "learnings": [
+      "Three IDR-weakness root causes: BI cannot raise rates (PHK risk), fiscal pressure from MBG, external (Iran-US oil → DXY ↑).",
+      "BBM hike (April 2026) hits non-subsidi only: Pertamax Turbo +48%, Dexlite +66%, Pertamax Dex +65%, Bio Solar non-subsidi +20%. Subsidized BBM held as social stabilizer.",
+      "BBM has been raised repeatedly since 2000. Stock market kept compounding through every hike. Long-term driver = population growth + purchasing power, not fuel price.",
+      "IDR impact is not uniform: CPO/coal exporters benefit (USD revenue, IDR costs); pharma/garment with imported inputs hurt; banks with IDR-only loan books unaffected directly.",
+      "In this environment, market prices in -50% discounts (vs usual -30%). Opportunity window wider, but ONLY for businesses still performing — separate market perception from company performance.",
+      "Value's note: do not confuse \"cheap stock\" with \"bad business.\" Some stocks fall to PBV 0.1x because fundamentals are broken — Mr Market is right, not mistaken. Do not buy broken businesses just because they are cheap."
+    ],
+    "sourceFile": "https://github.com/Marpale/Karsartha/blob/master/kakanda_framework/reference/value_letter.md#value-letter-013",
+    "ingestedOn": "2026-05-02"
+  }
+]
