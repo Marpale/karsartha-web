@@ -179,6 +179,105 @@
   .letter-summary { font-size: 0.9rem; }
   .letter-grid { grid-template-columns: 1fr; }
   @media (min-width: 800px) { .letter-grid { grid-template-columns: 1fr 1fr; } }
+  /* Value Universe quadrant view */
+  .universe-wrap { max-width: 900px; margin: 8px auto 0; }
+  .universe-intro { font-size: 0.9rem; color: var(--muted); margin-bottom: 18px; }
+  .universe-intro strong { color: var(--text); }
+  .universe-chart {
+    display: grid;
+    grid-template-columns: 36px 1fr 1fr;
+    grid-template-rows: 1fr 1fr 36px;
+    gap: 0;
+    margin: 24px 0;
+  }
+  .y-label {
+    grid-column: 1; grid-row: 1 / span 2;
+    writing-mode: vertical-rl; transform: rotate(180deg);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.8rem; font-weight: 700; color: var(--muted);
+    letter-spacing: 0.08em; text-transform: uppercase;
+  }
+  .x-label {
+    grid-column: 2 / span 2; grid-row: 3;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.8rem; font-weight: 700; color: var(--muted);
+    letter-spacing: 0.08em; text-transform: uppercase;
+  }
+  .quad {
+    border: 1px solid var(--border);
+    padding: 16px; min-height: 180px;
+    display: flex; flex-direction: column; gap: 8px;
+    background: var(--surface);
+  }
+  .quad.q3 { grid-column: 2; grid-row: 1; border-right: none; border-bottom: none;
+             background: linear-gradient(135deg, rgba(218,54,51,0.08), transparent 60%); }
+  .quad.q1 { grid-column: 3; grid-row: 1; border-bottom: none;
+             background: linear-gradient(225deg, rgba(46,160,67,0.10), transparent 60%); }
+  .quad.q4 { grid-column: 2; grid-row: 2; border-right: none;
+             background: linear-gradient(45deg, rgba(218,54,51,0.08), transparent 60%); }
+  .quad.q2 { grid-column: 3; grid-row: 2;
+             background: linear-gradient(315deg, rgba(210,153,34,0.08), transparent 60%); }
+  .quad-label {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 0.85rem; font-weight: 700; letter-spacing: 0.05em;
+  }
+  .quad-num {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 22px; height: 22px; border-radius: 50%;
+    background: var(--surface-2); color: var(--text);
+    font-size: 0.75rem; font-weight: 700;
+  }
+  .quad.q1 .quad-num { background: var(--buy); color: #fff; }
+  .quad.q2 .quad-num { background: var(--wait); color: #1f2328; }
+  .quad.q3 .quad-num,
+  .quad.q4 .quad-num { background: var(--avoid); color: #fff; }
+  .quad-title { font-size: 0.95rem; }
+  .quad-desc { font-size: 0.85rem; color: var(--muted); }
+  .quad-action { font-size: 0.85rem; font-weight: 600; }
+  .quad.q1 .quad-action { color: var(--buy); }
+  .quad.q2 .quad-action { color: var(--wait); }
+  .quad.q3 .quad-action,
+  .quad.q4 .quad-action { color: var(--avoid); }
+  .universe-rules {
+    margin-top: 24px; padding: 16px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; font-size: 0.85rem;
+  }
+  .universe-rules h3 {
+    margin: 0 0 12px; font-size: 0.75rem; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.05em;
+  }
+  .universe-rules ul { margin: 0; padding-left: 20px; }
+  .universe-rules li { margin-bottom: 8px; line-height: 1.5; }
+  .universe-rules code {
+    background: var(--surface-2); padding: 1px 6px; border-radius: 4px;
+    font-size: 0.85em;
+  }
+  .universe-source {
+    margin-top: 16px; padding: 12px;
+    border-left: 3px solid var(--accent);
+    font-size: 0.8rem; color: var(--muted);
+    background: var(--surface);
+  }
+  details.universe-block {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 0; margin: 12px 0 8px;
+  }
+  details.universe-block > summary {
+    cursor: pointer; padding: 14px 18px;
+    font-size: 0.95rem; font-weight: 600;
+    list-style: none; user-select: none;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  details.universe-block > summary::-webkit-details-marker { display: none; }
+  details.universe-block > summary::after {
+    content: "▾"; color: var(--muted); transition: transform 0.15s;
+  }
+  details.universe-block[open] > summary::after { transform: rotate(180deg); }
+  details.universe-block > summary .uni-sub {
+    color: var(--muted); font-weight: 400; font-size: 0.85rem; margin-left: 10px;
+  }
+  details.universe-block > .uni-body { padding: 0 18px 18px; }
   footer {
     text-align: center; color: var(--muted); font-size: 0.75rem;
     padding: 24px 0;
@@ -194,6 +293,58 @@
     </div>
     <button class="theme-btn" id="themeBtn" aria-label="Toggle theme">Light</button>
   </header>
+
+  <details class="universe-block">
+    <summary>
+      <span>Value Universe — quadrant primer<span class="uni-sub">2D positioning layer (Safety × Forecast)</span></span>
+    </summary>
+    <div class="uni-body">
+      <div class="universe-intro">
+        Two axes only. <strong>Y = Safety</strong> (Tab 14: quality-adjusted NAV vs market cap).
+        <strong>X = Forecast</strong> (next-quarter ΔNP, percentage-driven so smaller emiten move
+        more per IDR). Every covered name plots as one dot; re-plot quarterly minimum.
+      </div>
+      <div class="universe-chart" aria-label="Value Universe quadrant grid">
+        <div class="y-label">Safety ↑</div>
+        <div class="quad q3">
+          <div class="quad-label"><span class="quad-num">Q3</span><span class="quad-title">Cheap, no catalyst</span></div>
+          <div class="quad-desc">Asset value &gt; market value, but next-quarter profit growth absent.</div>
+          <div class="quad-action">⚠ Value-trap watch</div>
+        </div>
+        <div class="quad q1">
+          <div class="quad-label"><span class="quad-num">Q1</span><span class="quad-title">Margin of Safety</span></div>
+          <div class="quad-desc">Asset value &gt; market value AND next-quarter profit rising. Both gates align.</div>
+          <div class="quad-action">✅ BUY zone</div>
+        </div>
+        <div class="quad q4">
+          <div class="quad-label"><span class="quad-num">Q4</span><span class="quad-title">Overpriced, no catalyst</span></div>
+          <div class="quad-desc">Asset value &lt; market value AND no next-quarter growth. Nothing to like.</div>
+          <div class="quad-action">❌ Avoid</div>
+        </div>
+        <div class="quad q2">
+          <div class="quad-label"><span class="quad-num">Q2</span><span class="quad-title">Growth priced in</span></div>
+          <div class="quad-desc">Asset value &lt; market value but next-quarter profit improving. Story already paid for.</div>
+          <div class="quad-action">👀 Watch</div>
+        </div>
+        <div class="x-label">Forecast (next-Q ΔNP) →</div>
+      </div>
+      <div class="universe-rules">
+        <h3>Doctrinal rules</h3>
+        <ul>
+          <li><strong>Only Q1 = BUY zone.</strong> Q2 is priced-in growth; Q3 is value-trap watch (cheap but stagnant); Q4 is avoid.</li>
+          <li><strong>Right of safety line ≠ guaranteed profit.</strong> A loss-maker on the right is "loss shrinking", not "profitable now". X-axis reads as second-derivative.</li>
+          <li><strong>Left of safety line ≠ guaranteed loss.</strong> Mirror: a profitable name on the left is "profit thinning" — forward warning, not current verdict.</li>
+          <li><strong>Red zones</strong> (far-left forecast band ≈ X &lt;&nbsp;−15, and deep-bottom strip Y down to ≈ −30) = do-not-place-confidently. Default attribution: lack of circle-of-competence on that name, NOT market mispricing.</li>
+          <li><strong>A good company is not necessarily in a better quadrant</strong> (slide 10 doctrine). Quality and Value-Universe position are different statements — MIKA is the canonical counter-example.</li>
+          <li><strong>Coordinates are dynamic.</strong> Re-plot quarterly minimum. Sudden corp action (ADRO-style) can shift a dot across quadrants in one quarter.</li>
+          <li><strong>Forecast axis is %-driven, not absolute.</strong> SDRA's +14% sits further right than BBNI's +3%, even though absolute IDR delta is smaller.</li>
+        </ul>
+      </div>
+      <div class="universe-source">
+        Source: Value Principle Webinar — <em>Value Universe: Mapping of listed companies within the Value Database</em>, presented by Andhika Diskartes / Value team, 27 Feb 2025. Live mapping platform updates per quarter.
+      </div>
+    </div>
+  </details>
 
   <div class="view-tabs" id="viewTabs">
     <button class="view-tab active" data-view="emiten">Emiten</button>
